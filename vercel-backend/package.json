@@ -1,0 +1,8 @@
+{
+  "name": "lasers-expert-backend",
+  "version": "1.0.0",
+  "description": "Backend Stripe pour Lasers Expert",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
